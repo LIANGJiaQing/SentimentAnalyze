@@ -1,0 +1,77 @@
+(ROOT
+  (IP
+    (CP (IP (VP (ADVP (AD 太)) (VP (VA 差)))) (SP 了))
+    (PU 。)
+    (IP
+      (IP (NP (PN 我)) (VP (ADVP (AD 真的)) (ADVP (AD 很)) (VP (VA 愤怒))))
+      (PU ，)
+      (IP
+        (NP (ADJP (JJ 新)) (CP (IP (VP (VV 买))) (DEC 的)) (NP (NN 电脑)))
+        (VP (ADVP (AD 那么)) (VP (VV 卡))))
+      (PU ，)
+      (IP
+        (IP (VP (ADVP (AD 那么)) (VP (VA 慢))))
+        (PU 。)
+        (IP
+          (VP
+            (ADVP (AD 一次))
+            (VP
+              (VP (ADVP (AD 都)) (VP (VV 没用过)))
+              (SP 呢)
+              (PU ，)
+              (VP
+                (VV 新建)
+                (NP
+                  (IP (IP (VP (ADVP (AD 都)) (VP (VV 要)))) (ETC 等))
+                  (NP (NN 一会儿))))
+              (PU ，)
+              (VP
+                (VV 不敢相信)
+                (NP
+                  (DP (DT 这))
+                  (CP (IP (VP (VC 是) (NP (NN 固态硬盘)))) (DEC 的))
+                  (NP (NN 电脑)))))))
+        (PU 。)
+        (IP
+          (VP
+            (VP (VV 联想) (NP (DP (DT 这)) (NP (NN 品质))))
+            (PU ，)
+            (VP (ADVP (AD 真是)) (VP (VV 服) (AS 了)))
+            (PU ，)
+            (VP
+              (ADVP (AD 以后))
+              (VP (VV 再也) (VP (ADVP (AD 不)) (VP (VV 买) (AS 了)))))))
+        (PU 。)
+        (IP
+          (VP
+            (VV 建议)
+            (IP
+              (IP
+                (NP (PN 大家))
+                (VP
+                  (ADVP (AD 一定))
+                  (ADVP (AD 一定))
+                  (ADVP (AD 不要))
+                  (VP (VV 买))))
+              (PU ，)
+              (CP (IP (NP (PN 什么)) (VP (NP (NN 玩意)))) (SP 啊)))))
+        (PU 。)
+        (IP
+          (VP
+            (ADVP (AD 从来))
+            (ADVP (AD 都))
+            (VP
+              (VC 是)
+              (VP
+                (ADVP (AD 习惯性))
+                (DFL (VV 好评))
+                (DFL (VV 返) (AD 现) (AD 这次) (PN 我))
+                (ADVP (AD 一定))
+                (VP
+                  (VV 要)
+                  (VP
+                    (VV 给)
+                    (NP (QP (CLP (M 个))) (ADJP (JJ 差)) (NP (NN 评)))))))))
+        (PU ！)
+        (IP (VP (VP (VA 差)) (VP (VV 评) (VP (VV 差) (NP (NN 评))))))))
+    (PU ！)))
